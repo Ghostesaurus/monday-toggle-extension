@@ -1,0 +1,20 @@
+.compie-toggle-btn {
+    display: block;
+    height: 25px;
+    width: 25px;
+    margin: 0 5px;
+}
+
+.compie-toggle-btn:hover {
+    opacity: 0.7; filter: Alpha(opacity=70);
+}
+
+.compie-play-btn {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cmVjdCB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIGZpbGw9IiM0QkM4MDAiIHJ4PSIxOCIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMyAxMS45OTRjMC0xLjEwMS43NzMtMS41NTMgMS43NDUtLjk5N2wxMC41MSA2LjAwNWMuOTY0LjU1Ljk3MiAxLjQzOSAwIDEuOTk0bC0xMC41MSA2LjAwN2MtLjk2NC41NS0xLjc0NS4xMDItMS43NDUtLjk5N1YxMS45OTR6Ii8+PC9nPjwvc3ZnPg==);
+    background-repeat: no-repeat;
+    background-size: 25px;
+}
+
+.compie-stop-btn {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cmVjdCB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIGZpbGw9IiNFMjA1MDUiIHJ4PSIxOCIvPjxyZWN0IHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgeD0iMTEiIHk9IjExIiBmaWxsPSIjRkZGIiByeD0iMS41Ii8+PC9nPjwvc3ZnPg==);
+}
