@@ -12,7 +12,10 @@
         {
           "matches": ["https://*.monday.com/*"],
           "css": ["assets/styles/style.css"],
-          "js": ["BL/contentScript.js"]
+          "js": [
+                "BL/Utils/consts.js", 
+                "BL/contentScript.js"
+            ]
         }
     ],
     "page_action": {
